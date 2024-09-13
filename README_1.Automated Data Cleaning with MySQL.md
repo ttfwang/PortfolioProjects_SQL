@@ -15,9 +15,9 @@ The data used in this project is sourced from publicly available datasets contai
 
 ## Files in this Repository
 
-- [README.md](https://github.com/ttfwang/automated_data_cleaning_with_MySQL): Documentation of the project.
-- [Automated Data Cleaning_SQL script](https://github.com/ttfwang/automated_data_cleaning_with_MySQL/blob/main/Automated%20Data%20Cleaning_SQL%20script.sql): SQL script for automated data cleaning.
-- [us_household_income.csv](https://github.com/ttfwang/automated_data_cleaning_with_MySQL/blob/main/raw_data-UeHOX.csv): Raw data file in CSV format.
+- [README.md](https://github.com/ttfwang/PortfolioProjects_SQL/blob/main/README_1.Automated%20Data%20Cleaning%20with%20MySQL.md): Documentation of the project.
+- [Automated Data Cleaning_SQL script](https://github.com/ttfwang/PortfolioProjects_SQL/blob/main/1.Automated%20Data%20Cleaning_SQL%20script.sql): SQL script for automated data cleaning.
+- [us_household_income.csv](https://github.com/ttfwang/PortfolioProjects_SQL/blob/main/1.Automated%20Data%20Cleaning%20with%20MySQL_raw_data-UeHOX.csv): Raw data file in CSV format.
 
 
 ## Automated Data Cleaning Process
