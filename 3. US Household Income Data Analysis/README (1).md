@@ -16,10 +16,9 @@ The data used in this project is sourced from publicly available datasets contai
 
 ## Files in this Repository
 
-- [README.md](https://github.com/ttfwang/US_Household_Income_Data_exploratory_data-analysis): Documentation of the project.
-- [data_cleaning.sql](https://github.com/ttfwang/US_Household_Income_Data_exploratory_data-analysis/blob/main/SQL%20Script/US_Household_Income_Data_cleaning_V1.sql): SQL script for data cleaning.
-- [exploratory_analysis.sql](https://github.com/ttfwang/US_Household_Income_Data_exploratory_data-analysis/blob/main/SQL%20Script/US_Household_Income_Data_Exploratory_data%20analysis_v1.sql): SQL script for exploratory data analysis.
-- [us_household_income.csv](https://github.com/ttfwang/US_Household_Income_Data_exploratory_data-analysis/tree/main/raw_data): Raw data file in CSV format.
+- [data_cleaning.sql](https://github.com/ttfwang/PortfolioProjects_SQL/blob/main/3.%20US%20Household%20Income%20Data%20Analysis/US_Household_Income_Data_cleaning_V1.sql): SQL script for data cleaning.
+- [exploratory_analysis.sql](https://github.com/ttfwang/PortfolioProjects_SQL/blob/main/3.%20US%20Household%20Income%20Data%20Analysis/US_Household_Income_Data_Exploratory_data%20analysis_v1.sql): SQL script for exploratory data analysis.
+- [us_household_income.csv](https://github.com/ttfwang/PortfolioProjects_SQL/tree/main/3.%20US%20Household%20Income%20Data%20Analysis): Raw data file in CSV format.
 
 ## Data Cleaning Process
 
