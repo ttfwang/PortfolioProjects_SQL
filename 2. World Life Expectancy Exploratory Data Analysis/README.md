@@ -17,10 +17,8 @@ The data used in this project is sourced from a publicly available dataset conta
 
 ## Files in this Repository
 
-- [README.md](https://github.com/ttfwang/world_life_expectancy_exploratory_data_analysis/edit/main/README.md): Documentation of the project.
-- [data_cleaning.sql](https://github.com/ttfwang/world_life_expectancy_exploratory_data_analysis/blob/main/SQL%20Script/data_cleaning.sql): SQL script for data cleaning.
-- [exploratory_analysis.sql](https://github.com/ttfwang/world_life_expectancy_exploratory_data_analysis/blob/main/SQL%20Script/exploratory_analysis.sql): SQL script for exploratory data analysis.
-- [world_life_expectancy.csv](https://github.com/ttfwang/world_life_expectancy_exploratory_data_analysis/blob/main/raw_data_WorldLifeExpectancy.csv): Raw data file in CSV format.
+- [Project folder](https://github.com/ttfwang/PortfolioProjects_SQL/tree/main/2.%20World%20Life%20Expectancy%20Exploratory%20Data%20Analysis): Documentation of the project.
+
 
 ## Data Cleaning Process
 
