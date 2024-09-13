@@ -10,7 +10,7 @@ This is the portfolio that to record my Python projects and demonstracte my SQL 
 
 ## Projects list
 
-#### [<small>1. Automated Data Cleaning Project</small>](https://github.com/ttfwang/PortfolioProjects_SQL/blob/main/1.Automated%20Data%20Cleaning_SQL%20script.sql)
+#### [<small>1. Automated Data Cleaning Project</small>](https://github.com/ttfwang/PortfolioProjects_SQL/tree/main/2.%20World%20Life%20Expectancy%20Exploratory%20Data%20Analysis)
 - **Tools**: Jupyter notebook
 - **Description**: Implement an automated process to remove duplicates, correct errors, and standardize data for consistency.
 
