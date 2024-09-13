@@ -10,9 +10,9 @@ This is the portfolio that to record my Python projects and demonstracte my SQL 
 
 ## Projects list
 
-#### [<small>1. Web Scraper + Regular Expression Project</small>](https://github.com/ttfwang/PortfolioProjects_Python/blob/main/1.%20Web%20Scraper%20%2B%20Regular%20Expression%20Project.ipynb)
+#### [<small>1. Automated Data Cleaning Project</small>](https://github.com/ttfwang/PortfolioProjects_SQL/blob/main/1.Automated%20Data%20Cleaning_SQL%20script.sql)
 - **Tools**: Jupyter notebook
-- **Description**: This project demonstrates my ability to use Python for web scraping, text processing, and data analysis by extracting and analyzing the text of Martin Luther King Jr.'s 'I Have a Dream' speech.
+- **Description**: Implement an automated process to remove duplicates, correct errors, and standardize data for consistency.
 
 
 ## Contact
